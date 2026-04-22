@@ -39,5 +39,3 @@ This dashboard helps:
 * Support proactive fraud detection strategies
 * Enable better decision-making for financial risk management
 
----
-g it a star!
