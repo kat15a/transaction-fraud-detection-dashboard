@@ -1,4 +1,4 @@
-# 🚨 Transaction Fraud Detection & Risk Analytics Dashboard
+Transaction Fraud Detection & Risk Analytics Dashboard
 
 ## 📊 Project Overview
 
