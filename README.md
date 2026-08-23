@@ -18,7 +18,7 @@ This project focuses on analyzing transaction data to detect fraudulent activiti
 * 📈 Fraud Trends Over Time
 * 🌍 Transaction Distribution by Location (Map Visualization)
 * 🔍 Interactive Filters (Fraud Status, Risk Level)
-* 📋 High-Risk Accounts Summary Table
+* 📋 High-Risk Accounts Summary Tables
 
 
 ## 💡 Key Insights
